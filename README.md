@@ -1,2 +1,2 @@
 # SDC-TrafficLightClassifier
-Self-Driving Car Project:
+Self-Driving Car Project: Traffic Light Classification
